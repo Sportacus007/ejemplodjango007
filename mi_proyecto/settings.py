@@ -7,7 +7,7 @@ SECRET_KEY = 'django-insecure-9ewh1navse4q3q8&cr(qaridbjw(y7bnhjq7eg+nk%g!r#=ju0
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['*'] #configurar los urls validas despues de desplegar el proyecto en Render
+ALLOWED_HOSTS = ['https://ejemplodjango007.onrender.com/', 'localhost','127.0.0.1' ] #configurar los urls validas despues de desplegar el proyecto en Render
 
 
 
